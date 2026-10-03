@@ -1,0 +1,27 @@
+Gen Helper data license
+=======================
+
+The source code of Gen Helper is licensed under the MIT License (see LICENSE).
+
+Everything in the data/ directory, and any dataset bundled with or downloaded
+by the app, is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0):
+
+    https://creativecommons.org/licenses/by-sa/4.0/
+
+You are free to share and adapt the data for any purpose, including
+commercially, as long as you give appropriate credit and distribute your
+contributions under the same license.
+
+Attribution
+-----------
+
+Show information, cast, episode counts and image links are from TVmaze
+(https://www.tvmaze.com), used under CC BY-SA 4.0.
+
+Images are not part of the dataset. They are linked from their original
+hosts and remain under their owners' copyright.
+
+Contributors who add data agree to license their contributions under
+CC BY-SA 4.0 and must include a source for every factual claim
+(see CONTRIBUTING.md).
