@@ -20,10 +20,11 @@ You download, install and use Gen Helper at your own risk.
 
 ## What's inside
 
-- **Library:** 106 sitcoms to start, plus any show you add from TVmaze, or movies with your own free TMDB key. Cast with current ages, side-by-side comparisons, boards, and one-click project folders for your work.
+- **Library:** 106 sitcoms to start, plus any show you add from TVmaze, movies with your own free TMDB key, and YouTube channels (members included, free from Wikidata). Cast with current ages, add anyone (or a custom person with your own photo), side-by-side comparisons, boards, and one-click project folders for your work, with a folder for any person too.
 - **Glossary:** 100 camera, lens, lighting, color, editing and format techniques, each with what it looks like, when to use it, a copy-ready prompt phrase and real examples.
-- **Prompter (optional AI):** an LLM on your own key (Anthropic, OpenAI, Gemini, xAI, Mistral, DeepSeek, OpenRouter, Siray or a local Ollama) turns a rough idea, your references and Glossary "Looks" into a finished video or image prompt.
-- **Studio (optional AI):** generate video (Alibaba Wan 3.0) and images (every image model in Siray's catalog) on your own [Siray](https://siray.ai) key, with live jobs, cost estimates at Siray's current prices, your balance, prompt presets, and results saved to your folders.
+- **Prompter (optional AI):** an LLM on your own key (Anthropic, OpenAI, Gemini, xAI, Mistral, DeepSeek, OpenRouter, Venice, Siray or a local Ollama) turns a rough idea, your references and Glossary "Looks" into a finished video or image prompt.
+- **Studio (optional AI):** generate video and images on your own [Siray](https://siray.ai) or [Venice](https://venice.ai) key, with every model each provider lists, live jobs, cost estimates at the provider's current prices, your balance, prompt and reference presets, and results saved to your folders.
+- **Phone and other devices:** switch it on in Settings and scan the QR code to use the app from a phone's browser on the same Wi-Fi, driving your PC.
 - **Guided tours:** every page has a spotlight tour, plus a full tour of the whole app.
 
 Your API keys are encrypted on your PC and only ever sent to the provider they belong to. AI features cost money on your own provider account.
@@ -35,6 +36,10 @@ Install a newer version over the old one. Your library, settings and keys stay.
 ## Feedback, commissions and requests
 
 Join NotYourMomsAi on **[Telegram](https://t.me/NYMA_Commissions)**.
+
+## Privacy
+
+No account, no server, no analytics: your data stays on your PC. See [PRIVACY.md](PRIVACY.md).
 
 ## License
 
