@@ -24,6 +24,7 @@ You download, install and use Gen Helper at your own risk.
 - **Glossary:** 100 camera, lens, lighting, color, editing and format techniques, each with what it looks like, when to use it, a copy-ready prompt phrase and real examples.
 - **Prompter (optional AI):** an LLM on your own key (Anthropic, OpenAI, Gemini, xAI, Mistral, DeepSeek, OpenRouter, Venice, Siray or a local Ollama) turns a rough idea, your references and Glossary "Looks" into a finished video or image prompt.
 - **Studio (optional AI):** generate video and images on your own [Siray](https://siray.ai) or [Venice](https://venice.ai) key, with every model each provider lists, live jobs, cost estimates at the provider's current prices, your balance, prompt and reference presets, and results saved to your folders.
+- **Reference editing:** click a reference to crop it or trim it by exact numbers, cut a long clip into pieces, and generate a batch of instances from them.
 - **Phone and other devices:** switch it on in Settings and scan the QR code to use the app from a phone's browser on the same Wi-Fi, driving your PC.
 - **Guided tours:** every page has a spotlight tour, plus a full tour of the whole app.
 
